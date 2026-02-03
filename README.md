@@ -2,6 +2,8 @@
 
 ## Project Overview 
 
+**Link to Tableau Dashboard**: https://public.tableau.com/app/profile/riley.sonley/viz/un_voting_data/Dashboard1
+
 **Project Title**: UN General Assembly Votes Analysis 
 
 **Dataset**: 2025_9_19_ga_voting.csv, https://digitallibrary.un.org/record/4060887?ln=en
