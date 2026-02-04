@@ -25,6 +25,9 @@ This projcet was designed to demostrate skills in Postgre SQL, Python and Tablea
 - The dataset used in this project contains voting data on General Assembly resoultions in the UN from 1946 to 2025
 - The data is split up into three time periods. Looking at the Cold-War (1946-1991) era, the Post Cold-War era (1991-2025) and the entire period for which data exists (1946-2025) 
 
+# Initial Assumption 
+- The existance of distinct voting blocs within the United Nations General Assembly based around 3 axes (The United States, Russia/CCCP and China)
+- visualization of clear blocs of countires that alligned with one of the three great powers listed 
 
 # Key Findings 
 
@@ -40,4 +43,11 @@ This projcet was designed to demostrate skills in Postgre SQL, Python and Tablea
 - K-Means modelling shows that Russia/CCCP and China exist in the same cluster, perhaps suggesting an alligned approach to geopolitics
 - A large number of states in the Russia/CCCP/China allignment bloc are non-democratic
 - A large number of states are not alligned with US voting behaviour
-- Non-allignment with US voting behaviour does not signify consistent allignment with Russia/CCCP/China and could be resultant of the self-determination of these states in the UN 
+- Non-allignment with US voting behaviour does not signify consistent allignment with Russia/CCCP/China and could be resultant of the self-determination of these states in the UN
+
+## Comparison of Results to pre-Analysis Assumptions
+- A clear voting bloc was identified existing among major NATO countries and allignemnt with the USA
+- Less clear was the voting bloc of non-US alligned countries
+- K-mean clustering shows that Russia/CCCP and China exist in the same cluster, not having two sepearte distinct spheres on influenece
+- Clusters that contained Russia/CCCP and China do not have consistent/high percentage agreement from member states as is seen in the clusters formed around the US and its alligned nations. While they are united in non-alligment (mostly) with the US there is no consistnet allignment towards either China of Russia/CCCP
+- A lot of countires in the US allignment clusters do not have significanly lower percenatge agreement with China/CCCP than would be initially expected. Shows potentially a loose allignment with US interests that does not ential outright opposition to Chinese/Russian/CCCP voting intentions in the UNGA
