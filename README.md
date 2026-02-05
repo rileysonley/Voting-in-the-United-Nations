@@ -31,13 +31,13 @@ This projcet was designed to demostrate skills in Postgre SQL, Python and Tablea
 
 # Key Findings 
 
-## United States
+**United States**
 - The data shows that there are distinct voting blocs within the United Nations on the side of the USA and NATO
 - K-Means modelling and Tableau visualizations show consistent allignment with United States voting behaviour among Western Europe across all periods examined
 - A large mnajoirty of states that allign with US voting patterns in the UN are democracies, suggesting a correlation
 - Other than Western European allies and occassional outlieres, the data shows a majority of countires do not vote in line with US interests 
 
-## China and Russia/CCCP
+**China and Russia/CCCP**
 - The data shows a more varied, and larger, array of states voting in alligment with Russia/CCCP and China
 - K-Means modelling and Tableau visualizations show a larger cluster of states that vote more favourably with Russia/CCCP and China
 - K-Means modelling shows that Russia/CCCP and China exist in the same cluster, perhaps suggesting an alligned approach to geopolitics
@@ -45,7 +45,7 @@ This projcet was designed to demostrate skills in Postgre SQL, Python and Tablea
 - A large number of states are not alligned with US voting behaviour
 - Non-allignment with US voting behaviour does not signify consistent allignment with Russia/CCCP/China and could be resultant of the self-determination of these states in the UN
 
-## Comparison of Results to pre-Analysis Assumptions
+**Comparison of Results to pre-Analysis Assumptions**
 - A clear voting bloc was identified existing among major NATO countries and allignemnt with the USA
 - Less clear was the voting bloc of non-US alligned countries
 - K-mean clustering shows that Russia/CCCP and China exist in the same cluster, not having two sepearte distinct spheres on influenece
